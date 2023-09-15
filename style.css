@@ -1,0 +1,30 @@
+.angryTurtle {
+    width: 270px;
+    height: auto;
+}
+
+.logoText {
+    color: rgb(55,205,10);
+    
+}
+
+#main_logoText {
+    font-size: 55px;
+}
+
+#secondary_logoText {
+    font-size: 20px;
+}
+
+#panel_logoText {
+    background-color: rgba(125,25,25,0.6);
+    width: 600px;
+    padding: 15px;
+}
+
+#whamText {
+    font-family: impact;
+    padding: 15px;
+    height: 60px;
+    vertical-align: middle;
+}
